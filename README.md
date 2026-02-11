@@ -1,7 +1,8 @@
 # Estado de Servidores
 
-Última actualización (UTC): `2026-02-11 22:25:29`
+Última actualización (UTC): `2026-02-11 22:30:29`
 
 | Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |
 |----------|--------|-------|-----------|----------------------|
-| `Produccion_1` | VIVO | `10.0` | `56.1` | `2026-02-11 22:25:12` |
+| `Produccion_1` | VIVO | `5.0` | `57.2` | `2026-02-11 22:30:13` |
+| `test-desde-curl` | CRÍTICO | `10.1` | `97.5` | `2026-02-11 22:29:33` |
