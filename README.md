@@ -1,7 +1,1 @@
-# Estado de Servidores
-
-Última actualización (UTC): `2026-02-11 17:51:53`
-
-| Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |
-|----------|--------|-------|-----------|----------------------|
-| *No hay servidores reportando* | - | - | - | - |
+# Estado de Servidores\n\nÚltima actualización (UTC): `2026-02-11 19:45:41`\n\n| Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |\n|----------|--------|-------|-----------|----------------------|\n| *No hay servidores reportando* | - | - | - | - |\n
