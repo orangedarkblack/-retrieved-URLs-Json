@@ -1,8 +1,14 @@
-# Estado de Servidores
+# ✅ Estado del Sistema: NORMAL
 
-Última actualización (UTC): `2026-02-11 22:32:29`
+*Último cambio de estado detectado: `2026-02-11 23:48:39 UTC`*
 
-| Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |
-|----------|--------|-------|-----------|----------------------|
-| `Produccion_1` | VIVO | `0.0` | `58.5` | `2026-02-11 22:32:13` |
-| `test-desde-curl` | CAÍDO | `10.1` | `97.5` | `2026-02-11 22:29:33` |
+---
+
+## 🔥 Nivel de Riesgo Actual (calculado por Flink)
+> **`0.00`** / 7.0
+
+*(Último dato de Flink procesado en: `N/A`)*
+
+## ⚙️ Métricas del Contenedor en el Momento del Reporte
+- **Uso de CPU:** `58.20%`
+- **Uso de Memoria:** `55.2%` (4.29 GB / 7.76 GB)
