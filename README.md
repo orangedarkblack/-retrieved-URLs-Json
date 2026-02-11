@@ -1,1 +1,1 @@
-# Estado de Servidores\n\nÚltima actualización (UTC): `2026-02-11 19:46:41`\n\n| Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |\n|----------|--------|-------|-----------|----------------------|\n| `test-desde-curl` | CRÍTICO | `10.1` | `97.5` | `2026-02-11 19:46:24` |\n
+# Estado de Servidores\n\nÚltima actualización (UTC): `2026-02-11 19:47:41`\n\n| Servidor | Estado | CPU % | Memoria % | Último Reporte (UTC) |\n|----------|--------|-------|-----------|----------------------|\n| `test-desde-curl` | CRÍTICO | `10.1` | `97.5` | `2026-02-11 19:46:24` |\n
