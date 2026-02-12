@@ -1,14 +1,14 @@
 {
     "server_status": {
-        "state": "ONLINE",
+        "state": "ALARM",
         "metrics": {
-            "cpu_usage_percent": 9.3,
-            "memory_usage_percent": 53.9
+            "cpu_usage_percent": 25.1,
+            "memory_usage_percent": 75.3
         },
         "thresholds": {
             "alarm_greater_than_percent": 75.0,
             "critical_greater_than_percent": 90.0
         },
-        "report_timestamp_utc": "2026-02-12T17:46:40.848712Z"
+        "report_timestamp_utc": "2026-02-12T17:53:49.240071Z"
     }
 }
